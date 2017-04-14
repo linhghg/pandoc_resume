@@ -3,7 +3,7 @@ Honghuang Lin
 
 ----
 
-> Design Verification Engineer
+> Design Verification Engineer, 
 > Texas Instruments, Dallas, TX
 
 > Email: <linhghg@gmail.com>
@@ -13,31 +13,31 @@ Honghuang Lin
 Education
 ---------
 
-2011-2016
-:   **PhD, Computer Engineering**; Texas A&M University (College Station, TX)
+2011 - 2016
+:   **PhD, Computer Engineering** - Texas A&M University, College Station, TX
 
-    Thesis title: *Algorithms for Verification of Analog and Mixed-Signal Integrated Circuits*
+    Thesis: *Algorithms for Verification of Analog and Mixed-Signal Integrated Circuits*
 
-2007-2011
-:   **BS, Automation**; Tsinghua University (Beijing, China)
+2007 - 2011
+:   **BS, Automation** - Tsinghua University, Beijing, China
 
 Work Experience
 ---------------
 
-2016-Pres.
+2016 - Pres.
 :   **Design Verification Engineer**, Texas Instruments, Dallas, TX.
 :   * Design verification lead
 :   * Analog and mixed-signal (AMS) IC verification
 :   * Machine learning based circuit modeling and analysis
 :   * Machine learning based verification methodology research and development
 
-2011-2016
+2011 - 2016
 :   **Graduate Research Assistant**, Dept. of Electrical & Computer Engineering, Texas A&M University, College Station, TX.
-:   * Formal AMS verification
 :   * Machine learning based AMS verification, modeling and testing
 :   * Machine learning algorithm development
+:   * Formal AMS verification
 
-2014 and 2015
+2014 & 2015
 :   **Verification Intern**, Texas Instruments, Dallas, TX.
 :   * Advanced verification and test flow development
 
@@ -48,16 +48,15 @@ Work Experience
 Teaching Experience
 -------------------
 
-2013 and 2014
+2013 & 2014
 :   **Graduate Teaching Assistant**, Dept. of Electrical & Computer Engineering, Texas A&M University, College Station, TX.
 :   * Instructing lab sessions for _ECEN454 Digital Integrated Circuit Design_
 
 Research Interests
 ------------------
-* Modeling, optimization, verification and testing of AMS circuits
-* Machine learning algorithms and related circuit applications
-* Statistical circuit modeling and analysis
-* Parallel algorithms for CAD and IC verification
+* AMS IC Modeling, optimization, verification and testing
+* Machine learning algorithms and applications
+* Computer aided design (CAD) algorithms
 
 Professional Experience
 -----------------------
@@ -94,17 +93,37 @@ Awards
 Publications
 ------------
 
-* [DVCon’17] **Honghuang Lin**, Zhipeng Ye and Asad Khan, “Machine learning based PVT space coverage and worst case exploration in analog and mixed-signal design verification,” in Proc. of Design and Verification Conference and Exhibition U.S., Feb. 2017.
-* [DAC’16] **Honghuang Lin** and Peng Li, “Relevance vector and feature machine for statistical analog circuit characterization and built-in self-test optimization,” in Proc. of IEEE/ACM Design Automation Conference, June 2016.
-* [DVCon’16] Zhipeng Ye, **Honghuang Lin** and Asad Khan, “Functional coverage collection for analog circuits - enabling seamless collaboration between design and verification,” in Proc. of Design and Verification Conference and Exhibition U.S., Feb. 2016 (the 3rd place best paper award).
-* [TCAD’15] **Honghuang Lin** and Peng Li, “Circuit performance classification with active learning guided sampling for support vector machines,” in IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems, Vol. 34, No. 9, pp.1467-1480, Sep. 2015.
-* [TechCon’15] **Honghuang Lin** and Peng Li, “Adaptive sampling for circuit performance classification with active learning guided support vector machines,” Semiconductor Research Corporation TECHCON Conference, Sep. 2015.
-* [DAC’14] **Honghuang Lin** and Peng Li, “Parallel hierarchical reachability analysis for analog verification,” in Proc. of IEEE/ACM Design Automation Conference, pp. 1-6, Jun. 2014.
-* [BioMedCom'13] Shaoda Yu, Peng Li, **Honghuang Lin**, Ehsan Rohani, Gwan Choi, Botang Shao and Qian Wang, “Support vector machine based detection of drowsiness using minimum EEG features,” ASE/IEEE Intl. Conf. on Biomedical Computing, September 2013. 
-* [DAC’13] **Honghuang Lin**, Peng Li and Chris J. Myers, “Verification of digitally-intensive analog circuits via kernel ridge regression and hybrid reachability analysis,” in Proc. of IEEE/ACM Design Automation Conf., pp. 1-6, May 2013.
-* [FAC’13] **Honghuang Lin** and Peng Li, “Reachability analysis for AMS verification using hybrid support function and SMT-based method,” Frontiers in Analog CAD (FAC) Workshop, Feb. 2013.
-* [ICCAD’12] **Honghuang Lin** and Peng Li, “Classifying circuit performance using active-learning guided support vector machines,” IEEE/ACM Conf. on Computer-Aided Design, pp. 187-194, Nov. 2012. 
+* [DVCon’17] **Honghuang Lin**, Zhipeng Ye and Asad Khan,
+“Machine learning based PVT space coverage and worst case exploration in analog and mixed-signal design verification,”
+in Proc. of Design and Verification Conference and Exhibition U.S., Feb. 2017 (**the 3rd place best paper award**).
+* [DAC’16] **Honghuang Lin** and Peng Li,
+“Relevance vector and feature machine for statistical analog circuit characterization and built-in self-test optimization,”
+n Proc. of IEEE/ACM Design Automation Conference, June 2016.
+* [DVCon’16] Zhipeng Ye, **Honghuang Lin** and Asad Khan,
+“Functional coverage collection for analog circuits - enabling seamless collaboration between design and verification,”
+in Proc. of Design and Verification Conference and Exhibition U.S., Feb. 2016 (**the 3rd place best paper award**).
+* [TCAD’15] **Honghuang Lin** and Peng Li,
+Circuit performance classification with active learning guided sampling for support vector machines,”
+in IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems, Vol. 34, No. 9, pp.1467-1480, Sep. 2015.
+* [TechCon’15] **Honghuang Lin** and Peng Li,
+“Adaptive sampling for circuit performance classification with active learning guided support vector machines,”
+Semiconductor Research Corporation TECHCON Conference, Sep. 2015.
+* [DAC’14] **Honghuang Lin** and Peng Li,
+“Parallel hierarchical reachability analysis for analog verification,”
+in Proc. of IEEE/ACM Design Automation Conference, pp. 1-6, Jun. 2014.
+* [BioMedCom'13] Shaoda Yu, Peng Li, **Honghuang Lin**, Ehsan Rohani, Gwan Choi, Botang Shao and Qian Wang,
+“Support vector machine based detection of drowsiness using minimum EEG features,”
+ASE/IEEE Intl. Conf. on Biomedical Computing, September 2013. 
+* [DAC’13] **Honghuang Lin**, Peng Li and Chris J. Myers,
+“Verification of digitally-intensive analog circuits via kernel ridge regression and hybrid reachability analysis,”
+in Proc. of IEEE/ACM Design Automation Conf., pp. 1-6, May 2013.
+* [FAC’13] **Honghuang Lin** and Peng Li,
+“Reachability analysis for AMS verification using hybrid support function and SMT-based method,”
+Frontiers in Analog CAD (FAC) Workshop, Feb. 2013.
+* [ICCAD’12] **Honghuang Lin** and Peng Li,
+“Classifying circuit performance using active-learning guided support vector machines,”
+IEEE/ACM Conf. on Computer-Aided Design, pp. 187-194, Nov. 2012. 
 
 ----
 
-> <linhghg@gmail.com> - Dallas, TX
+> Email: <linhghg@gmail.com> - Dallas, TX
