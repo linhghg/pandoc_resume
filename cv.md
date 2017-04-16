@@ -54,7 +54,7 @@ Teaching Experience
 
 Research Interests
 ------------------
-* AMS IC Modeling, optimization, verification and testing
+* AMS IC modeling, optimization, verification and testing
 * Machine learning algorithms and applications
 * Computer aided design (CAD) algorithms
 
