@@ -93,6 +93,10 @@ Awards
 Publications
 ------------
 * [DVCon’17] **Honghuang Lin**, Zhipeng Ye and Asad Khan,
+“[Statistical circuit performance dependency analysis via sparse relevance kernel machine](http://ieeexplore.ieee.org/abstract/document/7993507/),”
+in Proc. of IEEE International Conference on IC Design and Technology (ICICDT), May 2017.
+
+* [DVCon’17] **Honghuang Lin**, Zhipeng Ye and Asad Khan,
 “[Machine learning based PVT space coverage and worst case exploration in analog and mixed-signal design verification](https://dvcon.org/history),”
 in Proc. of Design and Verification Conference and Exhibition U.S., Feb. 2017 (**the 3rd place best paper award**).
 
